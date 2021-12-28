@@ -9,7 +9,7 @@
 *.DS_Store
 .idea/
 services.yml
-tethysapp/regionaldrought/vdrought/node_modules
+tethysapp/regionaldrought/vdrought/node_modules/
 build/
 dist/
 tethysapp/regionaldrought/workspaces/app_workspace/MapImage/
